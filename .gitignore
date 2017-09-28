@@ -1,0 +1,9 @@
+*.xml
+*.json
+.DS_Store
+GoSquared/*
+js/*
+fonts/*
+imgs/*
+twitter/*
+webm/*
